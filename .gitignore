@@ -1,0 +1,17 @@
+# Raw Data (Prevents GitHub 100MB file push block)
+Data/
+globalterrorismdb_0718dist.csv
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python & Jupyter Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
