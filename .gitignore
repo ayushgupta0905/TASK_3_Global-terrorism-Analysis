@@ -3,6 +3,12 @@ Data/
 globalterrorismdb_0718dist.csv
 Data/
 globalterrorismdb_reduced_stage1.csv
+Data/
+globalterrorismdb_cleaned.csv
+Data/
+globalterrorismdb_reduced_stage2.csv
+Data/
+gtd_model_ready.csv
 
 # Virtual Environments
 venv/
