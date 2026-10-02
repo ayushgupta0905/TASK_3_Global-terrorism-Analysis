@@ -1,15 +1,16 @@
 # Raw Data (Prevents GitHub 100MB file push block)
-Data/
+Data/raw/
 globalterrorismdb_0718dist.csv
-Data/
+Data/processed/
 globalterrorismdb_reduced_stage1.csv
-Data/
+Data/processed/
 globalterrorismdb_cleaned.csv
-Data/
+Data/processed/
 globalterrorismdb_reduced_stage2.csv
-Data/
+Data/processed/
 gtd_model_ready.csv
-
+Data/processed/
+model_comparison.csv
 # Virtual Environments
 venv/
 .venv/
